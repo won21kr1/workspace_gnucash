@@ -1,0 +1,16 @@
+rm -rf AndroidWizardPager/bin/* 
+rm -rf AndroidWizardPager/.git 
+rm -rf CropImageDemo/bin/* 
+rm -rf CropImageDemo/.git 
+rm -rf CropImageLib/bin/* 
+rm -rf CropImageLib/.git 
+rm -rf Facebook-like/bin/* 
+rm -rf Facebook-like/.git 
+rm -rf Facebook-like/bin/* 
+rm -rf Facebook-like/.git 
+rm -rf GnucashMobile/bin/* 
+rm -rf GnucashMobile/.git 
+rm -rf actionbarsherlock/bin/* 
+rm -rf actionbarsherlock/.git 
+rm -rf viewpageindicatorlib/bin/* 
+rm -rf viewpageindicatorlib/.git 

@@ -1,0 +1,8 @@
+AndroidWizardPager
+CropImageDemo
+CropImageLib
+Facebook-like Slide-out Navigation
+Facebook-like Slide-out Navigation Sample
+GnucashMobile
+actionbarsherlock
+viewpageindicatorlib
